@@ -1,0 +1,187 @@
+10
+
+dir
+4569
+svn://192.168.0.39/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86/source/web/auto_web/WebRoot/resources/codemirror/mode
+svn://192.168.0.39
+
+
+
+2016-06-29T08:20:24.597258Z
+4566
+wanghl
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+40123c07-d025-4d75-8923-0fd0c8c83583
+
+clike
+dir
+
+clojure
+dir
+
+coffeescript
+dir
+
+commonlisp
+dir
+
+css
+dir
+
+diff
+dir
+
+ecl
+dir
+
+erlang
+dir
+
+gfm
+dir
+
+go
+dir
+
+groovy
+dir
+
+haskell
+dir
+
+haxe
+dir
+
+htmlembedded
+dir
+
+htmlmixed
+dir
+
+http
+dir
+
+javascript
+dir
+
+jinja2
+dir
+
+less
+dir
+
+lua
+dir
+
+markdown
+dir
+
+mysql
+dir
+
+ntriples
+dir
+
+ocaml
+dir
+
+pascal
+dir
+
+perl
+dir
+
+php
+dir
+
+pig
+dir
+
+plsql
+dir
+
+properties
+dir
+
+python
+dir
+
+r
+dir
+
+rpm
+dir
+
+rst
+dir
+
+ruby
+dir
+
+rust
+dir
+
+scheme
+dir
+
+shell
+dir
+
+sieve
+dir
+
+smalltalk
+dir
+
+smarty
+dir
+
+sparql
+dir
+
+stex
+dir
+
+tiddlywiki
+dir
+
+tiki
+dir
+
+vb
+dir
+
+vbscript
+dir
+
+velocity
+dir
+
+verilog
+dir
+
+xml
+dir
+
+xquery
+dir
+
+yaml
+dir
+
+z80
+dir
+
